@@ -1,0 +1,72 @@
+body{
+    background-color:wheat;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: forestgreen;
+}
+p.one{
+    font-family: calibri;
+    color: blue;
+}
+p.two{
+    font-size: 20px;
+}
+p.three{
+    @font-face {
+        font-family: ;
+        src: url();
+    }
+}
+p.four{
+    font-weight: bolder;
+}
+p.five{
+    font-style: italic;
+}
+p.six{
+    text-transform: uppercase;
+}
+p.seven{
+    text-decoration: overline;
+}
+p.eight{
+    line-height: 22px;
+}
+p.nine{
+    letter-spacing: 2px;
+    word-spacing: 4px;
+}
+p.ten{
+    text-align: right;
+}
+p.elven{
+    text-indent: 4px;
+}
+p.twelve{
+    text-shadow: 1px 1px 1px black;
+}
+p.thirteen::first-letter{
+    font-weight: bold;
+}
+p.fourteen::first-line{
+    font-weight: bolder;
+}
+p.fifteen{
+
+}
+p.sixteen{
+
+}
+p.seventeen{
+
+}
+p.eighteen{
+
+}
+p.nineteen{
+
+}
+p.twenty{
+
+}
